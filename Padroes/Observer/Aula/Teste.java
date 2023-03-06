@@ -10,7 +10,7 @@ public class Teste {
 		
 		crud.registerObserver(tela);
 		
-		Cliente cliente = new Cliente("Guilherme", "11111", "1");
+		Cliente cliente = new Cliente("Habaeb", "11111", "1");
 		Cliente c1 = new Cliente("g1", "2", "2");
 		//cliente.Telefone = "2222";
 		cliente.cpf = "0000000000";

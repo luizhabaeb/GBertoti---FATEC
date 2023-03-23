@@ -6,7 +6,7 @@ Primeiro, criei a interface Component que define as operações que os departame
 
 Segundo, criei a classe Employee que representa um funcionario da empresa e implementa a interface Component.
 
-Terceiro, criei a classe Department, que representa um departamento da empresa e também implementa a interface Component... essa classe  possui uma lista de Componentes, que pode conter tanto outros departamentos quanto funcionários. Isso permite que possamos criar hierarquias complexas de departamentos e subdepartamentos.
+Terceiro, criei a classe Department, que representa um departamento da empresa e também implementa a interface Component... essa classe  possui uma lista de Componentes, que pode conter tanto outros departamentos quanto funcionários. 
 
 Por fim, criei uma classe pra testar o conceito chamada "Composite" que de certa forma criou  uma hierarquia de departamentos e funcionários e no fim imprimiu todas as informações de forma hierárquica usando print().
 

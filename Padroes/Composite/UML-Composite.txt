@@ -1,0 +1,35 @@
++-------------------------+
+|        Component        |
++-------------------------+
+| + getName(): String     |
+| + print(): void         |
++-------------------------+
+            ^
+            |
+            |
++-------------------------+
+|        Employee         |
++-------------------------+
+| - name: String          |
++-------------------------+
+| + Employee(name: String)|
+| + getName(): String     |
+| + print(): void         |
++-------------------------+
+
++-------------------------+
+|        Department       |
++-------------------------+
+| - name: String          |
+| - components: List<Component> |
++-------------------------+
+| + Department(name: String)|
+| + addComponent(c: Component): void |
+| + removeComponent(c: Component): void |
+| + getName(): String     |
+| + print(): void         |
++-------------------------+
+
+Essa minha classe Department possui uma lista de Component  que deixaela  ter outros departamentos e/ou funcionários como componentes;
+A interface Component define as operações que ambos os tipos de componentes devem implementar; 
+E as classes Employee e Department implementam essas operações de acordo com o seu comportamento específico.

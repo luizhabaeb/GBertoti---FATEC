@@ -12,6 +12,8 @@ Por fim, criei uma classe pra testar o conceito chamada "Composite" que de certa
 
 
 # • Diagrama UML abaixo:
+```
+
 +-------------------------+
 |        Component        |
 +-------------------------+
@@ -44,7 +46,9 @@ Por fim, criei uma classe pra testar o conceito chamada "Composite" que de certa
 | + print(): void         |
 +-------------------------+
 
-Essa minha classe Department possui uma lista de Component  que deixaela  ter outros departamentos e/ou funcionários como componentes;
+```
+
+Essa minha classe Department possui uma lista de Component  que deixa ela  ter outros departamentos e/ou funcionários como componentes;
 A interface Component define as operações que ambos os tipos de componentes devem implementar; 
 E as classes Employee e Department implementam essas operações de acordo com o seu comportamento específico.
 

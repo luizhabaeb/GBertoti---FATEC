@@ -12,8 +12,8 @@ Por fim, criei uma classe pra testar o conceito chamada "Composite" que de certa
 
 
 # • Diagrama UML abaixo:
-```
 
+```
 +-------------------------+
 |        Component        |
 +-------------------------+
@@ -45,7 +45,6 @@ Por fim, criei uma classe pra testar o conceito chamada "Composite" que de certa
 | + getName(): String     |
 | + print(): void         |
 +-------------------------+
-
 ```
 
 Essa minha classe Department possui uma lista de Component  que deixa ela  ter outros departamentos e/ou funcionários como componentes;

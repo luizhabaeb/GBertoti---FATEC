@@ -1,0 +1,1 @@
+- **No meu projeto, a classe BibliotecaFacade é uma fachada que fornece uma interface simplificada para a Biblioteca. Isso permite que eu execute operações complexas, como emprestar um livro ou calcular uma multa com UM ÚNICO método.**

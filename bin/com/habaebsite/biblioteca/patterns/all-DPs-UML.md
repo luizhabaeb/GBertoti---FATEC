@@ -1,1 +1,1 @@
-![image](https://github.com/luizhabaeb/GBertoti---FATEC/assets/82103455/fdb443dd-ab8e-4e44-959f-99c2b74f9ecf)
+![image](https://github.com/luizhabaeb/GBertoti---FATEC/assets/82103455/dd2c559e-65f9-44a8-b4a6-3593911f913c)

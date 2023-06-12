@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author elisilu
+ *
+ */
+module BibliotecaPadroes {
+}
